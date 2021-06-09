@@ -10,6 +10,7 @@ feed:
   path: atom.xml
 
 # Jekyll configuration
+remote_theme: mmistakes/jekyll-theme-skinny-bones
 
 sass:
   sass_dir: _sass
